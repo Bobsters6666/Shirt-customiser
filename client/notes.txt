@@ -1,0 +1,2 @@
+AnimatePrescence allows animations to happen
+a ? b : c   Means that if a is true then b would happen, otherwise c would happen. 
